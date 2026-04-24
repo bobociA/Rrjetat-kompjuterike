@@ -326,6 +326,3 @@ sudo firewall-cmd --reload
 
 Honeypot-i është një mjet i fuqishëm për studimin e sulmeve reale SSH/Telnet, mbledhjen e inteligjencës rreth sulmuesve dhe analizën e malware-it — pa rrezikuar sistemin real.
 
----
-
-*Raport i krijuar nga Anxhela Boboçi — Laborator Sigurie Kibernetike, Prill 2026*
